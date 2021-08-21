@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/home/eduardo/Documentos/ProjetosFlutter/cadastro_de_alunos/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-night-v8/values-night-v8.xml",
+            "outputFile": "/home/eduardo/Documentos/GitHub/cadastro_de_alunos/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-night-v8/values-night-v8.xml",
             "map": [
                 {
-                    "source": "/home/eduardo/Documentos/ProjetosFlutter/cadastro_de_alunos/android/app/src/main/res/values-night/styles.xml",
+                    "source": "/home/eduardo/Documentos/GitHub/cadastro_de_alunos/android/app/src/main/res/values-night/styles.xml",
                     "from": {
                         "startLines": "3,14",
                         "startColumns": "4,4",

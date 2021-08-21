@@ -1,26 +1,20 @@
-//import 'dart:convert';
-
 class Student {
   final int? id;
   final String name;
   final String email;
-
-
 
   Student({
     this.id,
     required this.name,
     required this.email,
   });
-  //de objeto map para map 
+
+  // De Objeto para Map (Enviar para o banco de dados)
   Map<String, dynamic> toMap() {
-    return {
-      'id': id,
-      'name': name,
-      'email': email,
-    };
+    return {'id': this.id, 'name': this.name, 'email': this.email};
   }
-  //de map para objeto  
+
+  // De Map para Objeto (Receber do banco de dados)
   factory Student.fromMap(Map<String, dynamic> map) {
     return Student(
       id: map['id'],
@@ -28,5 +22,4 @@ class Student {
       email: map['email'],
     );
   }
-
 }

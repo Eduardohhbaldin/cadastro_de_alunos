@@ -1,4 +1,4 @@
-#Thu Aug 19 10:36:52 BRT 2021
-base.0=/home/eduardo/Documentos/ProjetosFlutter/cadastro_de_alunos/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+#Sat Aug 21 17:21:41 BRT 2021
+base.0=/home/eduardo/Documentos/GitHub/cadastro_de_alunos/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
 renamed.0=classes.dex
 path.0=classes.dex
