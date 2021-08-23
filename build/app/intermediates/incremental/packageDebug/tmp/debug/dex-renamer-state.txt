@@ -1,4 +1,4 @@
-#Sat Aug 21 17:21:41 BRT 2021
-base.0=/home/eduardo/Documentos/GitHub/cadastro_de_alunos/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+#Mon Aug 23 17:11:36 BRT 2021
+base.0=/home/heimerdinger/Documentos/GitHub/cadastro_de_alunos/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
 renamed.0=classes.dex
 path.0=classes.dex
